@@ -1,12 +1,12 @@
-<h1> Varprojektet</h1>
+# Varprojektet
 
-<h2> Vecka 10</h2>
+## Vecka 10
 <p>Idag har jag </p>
+## Vecka 11
+## Vecka 12
+## Vecka 13
+## Vecka 14
 
-<h2> Vecka 11</h2>
-<h2> Vecka 12</h2>
-<h2> Vecka 13</h2>
-<h2> Vecka 14</h2>
 
 
 
