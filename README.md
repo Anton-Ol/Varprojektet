@@ -10,6 +10,7 @@ Denna veckan har jag lagt in wireframes och sitemap i style guide och gjort lite
 Idag har vi börjat med webbplatsen. Jag har skapat de mappar och filer som vi behöver och börjat jobba lite med olika delar. Hela gruppen letade först efter en gratis bra bild på en gammaldags tv men det fanns ingen gratis som fukade som vi hade velat. Då började jag istället med vår store page och har stukturerat mycket av den sidan med bootstap. Har även börjat lite med buy page och har då använt mig lite av bootstraps validation funktion.
 
 ## Vecka 14
+Denna veckan har jag fortsatt med webbsidan. Jag har skapat en support page och en About us. Supporten har jag fyllt med "Frequently asked questions" och annan iformation som kan vara bra för en kund att veta. I vår About us har jag stukturerat sidan med rubriker och använt mig av flexbox för att få bilder på oss där vi vill ha dem. Under veckan har jag även fokuserat mycket på att skapa en footer som vi ska använda för alla delar av sidan och jag har jobbat hårt med att få den att se bra ut. Jag har dessutom hittat en riktigt bra gratis blid som jag la in som bakgrund i vår About us.
 
 
 
