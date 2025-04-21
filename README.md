@@ -11,6 +11,8 @@ Idag har vi börjat med webbplatsen. Jag har skapat de mappar och filer som vi b
 
 ## Vecka 14
 Denna veckan har jag fortsatt med webbsidan. Jag har skapat en support page och en About us. Supporten har jag fyllt med "Frequently asked questions" och annan iformation som kan vara bra för en kund att veta. I vår About us har jag stukturerat sidan med rubriker och använt mig av flexbox för att få bilder på oss där vi vill ha dem. Under veckan har jag även fokuserat mycket på att skapa en footer som vi ska använda för alla delar av sidan och jag har jobbat hårt med att få den att se bra ut. Jag har dessutom hittat en riktigt bra gratis blid som jag la in som bakgrund i vår About us.
+## Vecka 15 & Vecka 16
+Dessa två veckorna har jag jobbat med att lägga till mer fuktioner och dlar av vår webbplats. Jag började med att lägga in Elias terms of purchase på sidan och sedan stylade vår store page genom att fylla den med bilder och text. Fixade även så att alla länkarna funkade. Efter detta skapade jag en "Recommended Products" som jag fyllde med ett antal produkter. Jag har även skapat och färdigställt en "Work for Us" del.
 
 
 
