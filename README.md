@@ -18,6 +18,11 @@ Dessa två veckorna har jag jobbat med att lägga till mer fuktioner och delar a
 ## Vecka 18
 Denna veckan jobbade jag med styling främst. Jag använde mig av CSS funtioner för att styla store page och la till fonter och färger för att göra det lite mer roligt att titta på. Använde mig av tex av hover funktionen för en annan färg när mar hoverar och la till den fonten vi sa att vi skulle använda vid sidan av serif där jag kände att den passade på alla delar av vår hemsida. Jag har även ängnat mycket tid på att få vår support del att se bättre ut då jag hade svårt att få till något som inte såg dåligt ut. Har även skapat en navbar och lagt in den på alla sidorna med några justeringar på varje sida för att få den att passa där den var.
 
+## Vecka 19 
+Denna veckan publicerade jag vår sida på github pages. Innan detta läste jag på mycket om testning och publicering medans de andra fortsatte med sina delar av sidan. Jag gav min synpunkt och vi snackade ihop oss om hur vi skulle gå tillväga med publiceringen. Det slutade med att de färdiga delarna sickades över till mig för publicering samtidigt olle och zackarias finslipade lite till på sina delar. Efter puliceringen gjorde jag en snabb test för att se hur det såg ut.
+
+## Vecka 20 
+Denna veckan har jag fokuserat på att testa och försöka impimentera lösningar på de problem som fanns. Det största problemet som fanns var hastigheten som inte var så bra som vi önskat. För att lösa detta tog jag bort länkar som vi inte använde i footer och search bar i navbar då den ändå inte fungerade. Detta gav en markant skillnad men fortfarane inte tillräckligt bra(ska jobba vidare med det nästa lektionstillfälle). Sedan gick jag över till att förbättra tillgängligheten där det fanns ett problem. Detta är att screen readers inte kan läsa in våra ikoner för instagram och mail. För att försöka lösa detta skapade jag en alt text för dem vilket inte funkade :).
 
 
 
