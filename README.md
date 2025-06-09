@@ -30,5 +30,8 @@ Denna vecka har jag frågat folk navigeringsfrågor på vår webbsida tex hur ma
 ## Vecka 22
 Denna vecka har jag jobbat stenhårt med att öka prestandan då den var rätt dåligt. Men först började jag med att lösa ett problem med storleken på vår work for us sida. Sen uppstod det ett problem med vår terms of purchase efter att ändringar gjorts. Detta eftersom det var ett delat css dokument mellan båda dessa vilket ledde till att jag fick skapa ett enskillt för terms of purchase. Prestandan var 60 på mobil och 70 på dator när arbetet med prestandan denna veckan börjades. Jag bytte först ut några bilder och la till alt text på ett ställe där vi hade glömt och såg sedan att prestandan hade ökat extremt mycket(86 mobil och 100 dator). Men detta var enbart tur och när jag dagen efter testade igen var det nere på nästan samma som innan. Så jag konverterade sedan alla stora bilder till webp format och komprimerade dem samtidigt till mycket mindre. Detta gjorde att jag fick upp prestandan till 94 på mobil och 100 på dator. Jag avslutade med att dubbelkolla om att alla bilder var okej att använda och insåg då att en bakgrundsbild som användes inte hade tydliga specificeringar på hur man fick använda den. Detta gjorde att jag bytte till en annan.
 
+## Vecka 23
+Denna vecka har vi haft presentationen. Vi började lektionen med att lösa problem som uppstod när bilder visades i firefox då vissa av bilderna inte var nerladdade utan bara länkade till edge. Sen hade vi presentationen och efter det spenderade jag tid under veckan på att skriva dokumentationen. lämnade till sisst in allt via teams.
+
 
 
